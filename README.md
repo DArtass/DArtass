@@ -2,7 +2,7 @@
 - 👀 I’m interested in java job
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on java
-- 📫 How to reach me telegram
+- 📫 Reach me on telegram
 
 <!---
 DArtass/DArtass is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
