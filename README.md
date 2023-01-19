@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @DArtass
+- 👋 Hi, I’m Aleksandr Trofimov
 - 👀 I’m interested in java job
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on java
-- 📫 Reach me on telegram @GladiatorSanya
+- 📫 Reach me on telegram @AleksandrTrofimovJava
 
 <!---
 DArtass/DArtass is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
